@@ -1,3 +1,12 @@
+/*Created by Intellij IDEA
+ * Author: Harshit Dixit(Harshit9838)
+ * Date: 02-08-2020
+ *Time: 010:14 PM
+ */
+
+
+
+
 import java.util.Scanner;
 
 public class BuzzFizz {
